@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fragment project</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="numbers">Numbers</string>
+    <string name="family">FamilyMembers</string>
+    <string name="colors">Colors</string>
+    <string name="phrases">Phrases</string>
+</resources>
